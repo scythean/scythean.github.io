@@ -1,7 +1,7 @@
 title: Scythean
 description: A safe Roblox tool with native Linux and MacOS support
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 
 baseurl: ""
 url: "https://scythean.github.io"
