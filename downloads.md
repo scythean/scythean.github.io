@@ -1,3 +1,9 @@
+---
+layout: default
+title: Downloads
+---
+
+
 # Downloads
 MacOS: <a href="/awesome/">lidsa</a>
 Linux: <a href="/awesome/">lidsa</a>
