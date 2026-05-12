@@ -1,5 +1,5 @@
 # Home
-
+<a href="/downloads/">Download Scythean Here</a>
 # Why use Scythean?
 - <p>Scythean has native Linux and MacOS support, is open-source, completely free, and takes up minimal storage space with the Pi version. This means that almost anybody can use Scythean, and it has no chance of being malware because the code is entirely open source and can be viewed and analysed.</p>
 # What does Scythean do?
